@@ -9,18 +9,12 @@ This repository contains my solutions for the Advent of Code 2024 challenges, wr
 ---
 
 ## 🛠️ Project Structure
-The repository is organized by days, with each day's challenge stored in its respective folder:
+The repository is organized by days, with each day containing the following:
 
-AOC-2024/
-├── day-1/
-│   ├── input.txt      # Puzzle input for Day 1
-│   ├── solution.rs    # Rust solution for Day 1
-│   └── README.md      # Notes or explanation for Day 1
-├── day-2/
-│   ├── input.txt
-│   ├── solution.rs
-│   └── README.md
-└── ...
+- **example.txt**: The puzzle example for that day.
+- **input.txt**: The puzzle input for that day.
+- **main.rs**: The Rust solution for that day's challenge.
+- **README.md**: A brief explanation or notes about the solution for that day.
 
 ## 📋 How to Run
 1. Clone this repository:
@@ -48,7 +42,7 @@ AOC-2024/
 - Modular structure for easy navigation and understanding.
 
 ## 🌟 Challenges Completed
-- [x] Day 1: 🎯 Problem Title Here
+- [x] Day 1: 🎯 Historian Hysteria
 - [ ] Day 2: 🕐 Coming soon...
 - [ ] Day 3: 🕐 Coming soon...
 
