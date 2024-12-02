@@ -26,7 +26,7 @@ fn main() {
     sum += (num1 - num2).abs();
   }
 
-  println!("{sum}")
+  println!("The sum is: {sum}")
 }
 
 fn read_file(filename: &str) -> Vec<String> {

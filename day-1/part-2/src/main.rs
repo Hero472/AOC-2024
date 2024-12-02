@@ -29,7 +29,7 @@ fn main() {
     similarity += num * count;
   }
 
-  println!("{similarity}")
+  println!("The similarity is: {similarity}")
 }
 
 fn read_file(filename: &str) -> Vec<String> {
